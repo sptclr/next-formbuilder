@@ -1,0 +1,55 @@
+{
+  "name": "next-formbuilder",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "next",
+    "build": "next build",
+    "start": "next start"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sptclr/next-formbuilder.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sptclr/next-formbuilder/issues"
+  },
+  "homepage": "https://github.com/sptclr/next-formbuilder#readme",
+  "dependencies": {
+    "@zeit/next-css": "^1.0.1",
+    "@zeit/next-sass": "^1.0.1",
+    "beedle": "^0.6.8",
+    "bootstrap": "^4.3.1",
+    "classnames": "^2.2.5",
+    "date-fns": "^2.0.0-alpha.27",
+    "draft-js": "^0.10.0",
+    "draftjs-to-html": "^0.6.1",
+    "es6-promise": "^4.2.4",
+    "fbemitter": "^2.1.1",
+    "immutability-helper": "^2.6.6",
+    "isomorphic-fetch": "^2.2.1",
+    "jquery": "^3.3.1",
+    "next": "^8.0.3",
+    "next-routes": "^1.4.2",
+    "node-sass": "^4.11.0",
+    "prop-types": "^15.6.1",
+    "react": "^16.8.4",
+    "react-bootstrap-slider": "~2.1.5",
+    "react-datepicker": "^2.1.0",
+    "react-dnd": "^2.5.4",
+    "react-dnd-html5-backend": "^2.5.4",
+    "react-dom": "^16.8.4",
+    "react-draft-wysiwyg": "^1.12.13",
+    "react-form-builder2": "^0.1.28",
+    "react-select": "^2.0.0",
+    "react-signature-canvas": "^1.0.1",
+    "react-star-rating": "^1.4.2",
+    "react-textarea-autosize": "^6.0.0",
+    "xss": "^1.0.3"
+  }
+}

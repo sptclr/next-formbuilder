@@ -1,0 +1,22 @@
+// Variables
+@import "./shared/form-builder/variables";
+
+// Component syles
+@import "./shared/form-builder/react-star-rating";
+@import "./shared/form-builder/react-select";
+@import "./shared/form-builder/react-bootstrap-slider";
+@import "./shared/form-builder/react-date-picker";
+
+@import "./shared/form-builder/react-draft";
+
+// Form builder styles
+@import "./shared/form-builder/form-builder";
+@import "./shared/form-builder/form-builder-form";
+
+.react-form-builder .react-form-builder-preview .Sortable .rfb-item .toolbar-header .label{
+    display: none;
+}
+
+.react-form-builder .react-form-builder-toolbar{
+    width: 30%;
+}
