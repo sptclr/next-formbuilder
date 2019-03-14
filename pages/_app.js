@@ -2,11 +2,8 @@ import React from 'react'
 import App, { Container } from 'next/app'
 
 //stylings
-import 'bootstrap/dist/css/bootstrap.min.css';
-import '../styles/application.scss'
-
-
-
+// import 'bootstrap/dist/css/bootstrap.min.css';
+import '../styles/application.scss';
 
 class MyApp extends App {
   static async getInitialProps({ Component, ctx }) {
